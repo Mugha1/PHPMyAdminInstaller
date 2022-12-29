@@ -23,7 +23,7 @@ bash <(curl -s https://raw.githubusercontent.com/JulianGransee/PHPMyAdminInstall
 
 Syntax:
 ```
-bash <(curl -s https://raw.githubusercontent.com/JulianGransee/PHPMyAdminInstaller/main/install.sh) [-h|-s]
+bash <(curl -s https://raw.githubusercontent.com/Mugha1/PHPMyAdminInstaller/main/install.sh) [-h|-s]
 ```
 options:
 
