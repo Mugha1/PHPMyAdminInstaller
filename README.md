@@ -5,6 +5,10 @@ This is just a simple bash script to install PHPMyAdmin, Apache2 and MariaDB on 
 To run the installer simply run the following command and follow the instructions
 
 ```
+apt install curl -y
+```
+
+```
 bash <(curl -s https://raw.githubusercontent.com/Mugha1/PHPMyAdminInstaller/main/install.sh)
 ```
 
